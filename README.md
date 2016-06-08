@@ -5,7 +5,6 @@ Mandala is a meditative game where you are a point and the goal is to gather sha
 
 
 Created by:  
-
 Dayna Lacoursiere - Programmer  
 Kelsey Prud'homme - Designer and Artist  
 Joey da Costa - Sound Designer  
